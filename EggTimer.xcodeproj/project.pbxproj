@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AD5C106222D34E35001E14A5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106122D34E35001E14A5 /* README.md */; };
 		AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106522D36212001E14A5 /* alarm_sound.mp3 */; };
 		ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037ED22D332A800A69E9A /* AppDelegate.swift */; };
 		ADF037F022D332A800A69E9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037EF22D332A800A69E9A /* SceneDelegate.swift */; };
